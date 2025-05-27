@@ -1,6 +1,8 @@
 git init
 git add .
-git commit -m "Primeiro commit do Ikigai Planner"
-git branch -M main
+git commit -m "Redireciona / para /dashboard"
+git push origin main
 git remote add origin https://github.com/danielmfreitas1/ikigai-planner.git
 git push -u origin main
+
+
