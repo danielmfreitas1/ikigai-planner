@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "Redireciona / para /dashboard"
+git commit -m "Adiciona redirecionamento após login"
 git push origin main
 git remote add origin https://github.com/danielmfreitas1/ikigai-planner.git
 git push -u origin main
